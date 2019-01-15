@@ -114,4 +114,6 @@ C:\Users\mike\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.Andro
 C:\Users\mike\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\mike\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\mike\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\mike\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\netstandard2.0\TravelRecordApp.dll
+C:\Users\mike\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.Android\bin\Debug\TravelRecordApp.dll.mdb
 C:\Users\mike\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.Android\obj\Debug\81\linksrc\TravelRecordApp.dll.mdb
